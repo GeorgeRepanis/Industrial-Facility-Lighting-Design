@@ -10,6 +10,14 @@ Lighting design and photometric analysis of a real industrial production facilit
 
 This diploma thesis focuses on the complete lighting design of an industrial production facility, covering both **indoor and outdoor areas**.
 
+<p align="center">
+  <img src="image/main-image.png" width="950">
+</p>
+
+<p align="center">
+  <em>Real industrial facility and corresponding lighting design visualization developed in DIALux evo.</em>
+</p>
+
 The project includes the development of a detailed 3D lighting model, luminaire selection and placement, photometric calculations, lighting quality evaluation and comparison between the existing and proposed lighting installations.
 
 The main objective was to design a lighting system that satisfies the required illumination levels while also considering:
